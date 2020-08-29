@@ -1,3 +1,7 @@
+'''Written by
+Ayush Agrawal
+'''
+
 import pytesseract
 import io
 import json
